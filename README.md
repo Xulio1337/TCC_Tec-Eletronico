@@ -26,3 +26,7 @@ A proposta inicial era criar um ambiente **totalmente controlável** por celular
 
 ## Contribuição e Desenvolvimento
 Durante o desenvolvimento, fui responsável pela **concepção da ideia, execução, montagem, eletrônica, mecânica e programação** do projeto.
+
+## 📖 Licença
+Este projeto é de código aberto e pode ser usado e modificado livremente. Sinta-se à vontade para contribuir! 🎯
+
